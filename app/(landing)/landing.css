@@ -1142,6 +1142,10 @@
   line-height: 1.2;
 }
 
+.landing-root #cta-final h2 {
+  color: white !important;
+}
+
 .landing-root h1 {
   font-size: 3.5rem;
   font-weight: 700;
