@@ -1,5 +1,6 @@
 <div align="center">
 
+
 # Clube 103% — MVP
 
 Plataforma modular construída em Next.js para estruturação do ecossistema do produto,  
